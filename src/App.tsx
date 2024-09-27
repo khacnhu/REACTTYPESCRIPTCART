@@ -7,7 +7,7 @@ import Store from './pages/Store'
 import Navbar from './components/Navbar';
 import ShoppingCartProvider from './context/ShoppingCartContext';
 
-
+//comment code to test github move ide vscode in web browser
 function App() {
   return (  
     <ShoppingCartProvider>
